@@ -96,3 +96,12 @@ For any questions, feel free to reach out:
 
 - **Email:** nvashistha500@gmail.com 
 - **GitHub:** [Nakshatra-Vashistha](https://github.com/Nakshatra-Vashistha)
+
+## **Team Members**
+
+  -Krishna Goyal (Leader)
+  -Nakshatra Vashistha
+  -Harsh Namdev
+  -Saksham Bansal
+  -Priyanshu Khandelwal
+  -Harshita Kumari
