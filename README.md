@@ -94,5 +94,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions, feel free to reach out:
 
-- **Email:** nakshatra.vashistha@example.com (or your actual email address)
+- **Email:** nvashistha500@gmail.com 
 - **GitHub:** [Nakshatra-Vashistha](https://github.com/Nakshatra-Vashistha)
+
+## **Team Members**
+
+  -Krishna Goyal (Leader)
+  -Nakshatra Vashistha
+  -Harsh Namdev
+  -Saksham Bansal
+  -Priyanshu Khandelwal
+  -Harshita Kumari
