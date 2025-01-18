@@ -92,7 +92,7 @@ We welcome contributions! Please follow these steps if you'd like to contribute:
 For any questions, feel free to reach out:
 
 - **Email:** hnamdev2005@gmail.com
-- **GitHub:** [Nakshatra-Vashistha](https://github.com/harshnamd)
+- **GitHub:** [Harsh-Namdev](https://github.com/harshnamd)
 
 ## **Team Members**
 
